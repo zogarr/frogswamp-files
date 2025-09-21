@@ -1,98 +1,52 @@
 {
 	"DinoDipConfig": {
 		"alwaysallowtaming": [
-			"/Game/PrimalEarth/Items/Raft/Raft_BP.Raft_BP_C",
-			"/Game/Mods/Ragnarok/Dinos/ShoulderDragon/ShoulderDragon_Character_BP_Autumn.ShoulderDragon_Character_BP_Autumn_C",
-			"/Game/Mods/Ragnarok/Dinos/ShoulderDragon/ShoulderDragon_Character_BP_Summer.ShoulderDragon_Character_BP_Summer_C",
-			"/Game/Mods/Ragnarok/Dinos/ShoulderDragon/ShoulderDragon_Character_BP_Winter.ShoulderDragon_Character_BP_Winter_C",
-			"/Game/Mods/Ragnarok/Dinos/ShoulderDragon/ShoulderDragon_Character_BP_Spring.ShoulderDragon_Character_BP_Spring_C",
-			"/Game/Packs/Wasteland/Dinos/Doggo/Doggo_Character_BP.Doggo_Character_BP_C",
-			"/Game/ASA/Dinos/Bison/Bison_Character_BP.Bison_Character_BP_C",
-			"/Game/LostColony/Dinos/YoungIceFox/YoungIceFox_DinoCompanion_Character_BP.YoungIceFox_DinoCompanion_Character_BP_C",
-			"/AmissaAdditions/Content/Assets/Dinos/Chicken/AmissaChicken_Character_BP.AmissaChicken_Character_BP_C",
-			"/AmissaAdditions/Content/Assets/Dinos/Parrot/AmissaParrot_Character_BP.AmissaParrot_Character_BP_C"
 		],
 		"weeksarrays": [
 			{
 				"weekforoptions": [
 					{
-						"dino": "/Game/PrimalEarth/Dinos/Para/Para_Character_BP.Para_Character_BP_C",
-						"chancetodrop": 0.95
+						"dino": "/Game/PrimalEarth/Items/Raft/Raft_BP.Raft_BP_C",
+						"chancetodrop": 1
 					},
 					{
-						"dino": "/Game/PrimalEarth/Dinos/Beaver/Beaver_Character_BP.Beaver_Character_BP_C",
-						"chancetodrop": 0.8
+						"dino": "/Game/Mods/Ragnarok/Dinos/ShoulderDragon/ShoulderDragon_Character_BP_Autumn.ShoulderDragon_Character_BP_Autumn_C",
+						"chancetodrop": 1
 					},
 					{
-						"dino": "/Game/PrimalEarth/Dinos/Stag/Stag_Character_BP.Stag_Character_BP_C",
+						"dino": "/Game/Mods/Ragnarok/Dinos/ShoulderDragon/ShoulderDragon_Character_BP_Summer.ShoulderDragon_Character_BP_Summer_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/Mods/Ragnarok/Dinos/ShoulderDragon/ShoulderDragon_Character_BP_Winter.ShoulderDragon_Character_BP_Winter_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/Mods/Ragnarok/Dinos/ShoulderDragon/ShoulderDragon_Character_BP_Spring.ShoulderDragon_Character_BP_Spring_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/Packs/Wasteland/Dinos/Doggo/Doggo_Character_BP.Doggo_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
+						"dino": "/Game/ASA/Dinos/Bison/Bison_Character_BP.Bison_Character_BP_C",
 						"chancetodrop": 0.9
 					},
 					{
-						"dino": "/Game/PrimalEarth/Dinos/TerrorBird/TerrorBird_Character_BP.TerrorBird_Character_BP_C",
-						"chancetodrop": 0.85
+						"dino": "/Game/LostColony/Dinos/YoungIceFox/YoungIceFox_DinoCompanion_Character_BP.YoungIceFox_DinoCompanion_Character_BP_C",
+						"chancetodrop": 1
 					},
 					{
-						"dino": "/Game/PrimalEarth/Dinos/Toad/Toad_Character_BP.Toad_Character_BP_C",
-						"chancetodrop": 0.8
+						"dino": "/AmissaAdditions/Content/Assets/Dinos/Chicken/AmissaChicken_Character_BP.AmissaChicken_Character_BP_C",
+						"chancetodrop": 1
 					},
 					{
-						"dino": "/Game/PrimalEarth/Dinos/Gallimimus/Galli_Character_BP.Galli_Character_BP_C",
-						"chancetodrop": 0.9
-					},
-					{
-						"dino": "/Game/PrimalEarth/Dinos/Iguanodon/Iguanodon_Character_BP.Iguanodon_Character_BP_C",
-						"chancetodrop": 0.9
-					},
-					{
-						"dino": "/Game/ScorchedEarth/Dinos/SpineyLizard/SpineyLizard_Character_BP.SpineyLizard_Character_BP_C",
-						"chancetodrop": 0.85
-					},
-					{
-						"dino": "/Game/PrimalEarth/Dinos/Kaprosuchus/Kaprosuchus_Character_BP.Kaprosuchus_Character_BP_C",
-						"chancetodrop": 0.75
-					},
-					{
-						"dino": "/Game/PrimalEarth/Dinos/Pachyrhinosaurus/Pachyrhino_Character_BP.Pachyrhino_Character_BP_C",
-						"chancetodrop": 0.8
-					},
-					{
-						"dino": "/Game/PrimalEarth/Dinos/Raptor/Raptor_Character_BP.Raptor_Character_BP_C",
-						"chancetodrop": 0.85
-					},
-					{
-						"dino": "/Game/PrimalEarth/Dinos/Saber/Saber_Character_BP.Saber_Character_BP_C",
-						"chancetodrop": 0.8
-					},
-					{
-						"dino": "/Game/PrimalEarth/Dinos/Phiomia/Phiomia_Character_BP.Phiomia_Character_BP_C",
-						"chancetodrop": 0.95
-					},
-					{
-						"dino": "/Game/PrimalEarth/Dinos/Moschops/Moschops_Character_BP.Moschops_Character_BP_C",
-						"chancetodrop": 0.9
-					},
-					{
-						"dino": "/Game/PrimalEarth/Dinos/Megalania/Megalania_Character_BP.Megalania_Character_BP_C",
-						"chancetodrop": 0.7
-					},
-					{
-						"dino": "/Game/PrimalEarth/Dinos/Direwolf/Direwolf_Character_BP.Direwolf_Character_BP_C",
-						"chancetodrop": 0.8
-					},
-					{
-						"dino": "/Game/PrimalEarth/Dinos/Scorpion/Scorpion_Character_BP.Scorpion_Character_BP_C",
-						"chancetodrop": 0.85
-					},
-					{
-						"dino": "/Game/PrimalEarth/Dinos/Pachy/Pachy_Character_BP.Pachy_Character_BP_C",
-						"chancetodrop": 0.95
-					},
-					{
-						"dino": "/Game/PrimalEarth/Dinos/Turtle/Turtle_Character_BP.Turtle_Character_BP_C",
-						"chancetodrop": 0.9
+						"dino": "/AmissaAdditions/Content/Assets/Dinos/Parrot/AmissaParrot_Character_BP.AmissaParrot_Character_BP_C",
+						"chancetodrop": 1
 					}
 				],
-				"dipstogive": 0
+				"dipstogive": 10
 			},
 			{
 				"weekforoptions": [
