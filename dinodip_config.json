@@ -14,15 +14,15 @@
 						"chancetodrop": 1
 					},
 					{
-						"dino": "/Game/Mods/Ragnarok/Dinos/ShoulderDragon/ShoulderDragon_Character_BP_Summer.ShoulderDragon_Character_BP_Summer_C",
+						"dino": "/Game/ASA/Dinos/ShoulderDragon/ShoulderDragon_Character_BP_Summer.ShoulderDragon_Character_BP_Summer_C",
 						"chancetodrop": 1
 					},
 					{
-						"dino": "/Game/Mods/Ragnarok/Dinos/ShoulderDragon/ShoulderDragon_Character_BP_Winter.ShoulderDragon_Character_BP_Winter_C",
+						"dino": "/Game/ASA/Dinos/ShoulderDragon/ShoulderDragon_Character_BP_Winter.ShoulderDragon_Character_BP_Winter_C",
 						"chancetodrop": 1
 					},
 					{
-						"dino": "/Game/Mods/Ragnarok/Dinos/ShoulderDragon/ShoulderDragon_Character_BP_Spring.ShoulderDragon_Character_BP_Spring_C",
+						"dino": "/Game/ASA/Dinos/ShoulderDragon/ShoulderDragon_Character_BP_Spring.ShoulderDragon_Character_BP_Spring_C",
 						"chancetodrop": 1
 					},
 					{
@@ -31,7 +31,7 @@
 					},
 					{
 						"dino": "/Game/ASA/Dinos/Bison/Bison_Character_BP.Bison_Character_BP_C",
-						"chancetodrop": 0.9
+						"chancetodrop": 1
 					},
 					{
 						"dino": "/Game/LostColony/Dinos/YoungIceFox/YoungIceFox_DinoCompanion_Character_BP.YoungIceFox_DinoCompanion_Character_BP_C",
