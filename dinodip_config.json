@@ -1,6 +1,7 @@
 {
 	"DinoDipConfig": {
 		"alwaysallowtaming": [
+			"/AmissaAdditions/Assets/Dinos/Chicken/AmissaChicken_Character_BP.AmissaChicken_Character_BP_C"
 		],
 		"weeksarrays": [
 			{
