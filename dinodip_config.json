@@ -467,6 +467,10 @@
 						"chancetodrop": 0.35
 					},
 					{
+						"/Game/ASA/Dinos/Fasolasuchus/Fasola_Character_BP_Aberrant.Fasola_Character_BP_Aberrant",
+						"chancetodrop": 0.35
+					},
+					{
 						"dino": "/Game/Extinction/Dinos/Owl/Owl_Character_BP.Owl_Character_BP_C",
 						"chancetodrop": 0.45
 					},
