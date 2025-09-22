@@ -38,11 +38,11 @@
 						"chancetodrop": 1
 					},
 					{
-						"dino": "/AmissaAdditions/Content/Assets/Dinos/Chicken/AmissaChicken_Character_BP.AmissaChicken_Character_BP_C",
+						"dino": "/AmissaAdditions/Assets/Dinos/Chicken/AmissaChicken_Character_BP.AmissaChicken_Character_BP_C",
 						"chancetodrop": 1
 					},
 					{
-						"dino": "/AmissaAdditions/Content/Assets/Dinos/Parrot/AmissaParrot_Character_BP.AmissaParrot_Character_BP_C",
+						"dino": "/AmissaAdditions/Assets/Dinos/Parrot/AmissaParrot_Character_BP.AmissaParrot_Character_BP_C",
 						"chancetodrop": 1
 					}
 				],
