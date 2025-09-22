@@ -1,7 +1,6 @@
 {
 	"DinoDipConfig": {
 		"alwaysallowtaming": [
-			"/AmissaAdditions/Assets/Dinos/Chicken/AmissaChicken_Character_BP.AmissaChicken_Character_BP_C"
 		],
 		"weeksarrays": [
 			{
@@ -424,6 +423,10 @@
 						"chancetodrop": 0.4
 					},
 					{
+						"dino": "/AmissaAdditions/Assets/Dinos/MaracawArged/Maracaw_Argent_Character_BP.Maracaw_Argent_Character_BP",
+						"chancetodrop": 0.4
+					},
+					{
 						"dino": "/Game/PrimalEarth/Dinos/Thylacoleo/Thylacoleo_Character_BP.Thylacoleo_Character_BP_C",
 						"chancetodrop": 0.4
 					},
@@ -476,27 +479,27 @@
 						"chancetodrop": 0.55
 					},
 					{
-						"dino": "/AmissaAdditions/Content/Assets/Dinos/Amissa_Wyverns/WyvernVariants/AmissaWyvern_Character_BP_Fire.AmissaWyvern_Character_BP_Fire_C",
+						"dino": "/AmissaAdditions/Assets/Dinos/Amissa_Wyverns/WyvernVariants/AmissaWyvern_Character_BP_Fire.AmissaWyvern_Character_BP_Fire_C",
 						"chancetodrop": 0.3
 					},
 					{
-						"dino": "/AmissaAdditions/Content/Assets/Dinos/Amissa_Wyverns/WyvernVariants/AmissaWyvern_Character_BP_Ice.AmissaWyvern_Character_BP_Ice_C",
+						"dino": "/AmissaAdditions/Assets/Dinos/Amissa_Wyverns/WyvernVariants/AmissaWyvern_Character_BP_Ice.AmissaWyvern_Character_BP_Ice_C",
 						"chancetodrop": 0.3
 					},
 					{
-						"dino": "/AmissaAdditions/Content/Assets/Dinos/Amissa_Wyverns/WyvernVariants/AmissaWyvern_Character_BP_Lightning2.AmissaWyvern_Character_BP_Lightning2_C",
+						"dino": "/AmissaAdditions/Assets/Dinos/Amissa_Wyverns/WyvernVariants/AmissaWyvern_Character_BP_Lightning2.AmissaWyvern_Character_BP_Lightning2_C",
 						"chancetodrop": 0.3
 					},
 					{
-						"dino": "/AmissaAdditions/Content/Assets/Dinos/Amissa_Wyverns/WyvernVariants/AmissaWyvern_Character_BP_Mountain.AmissaWyvern_Character_BP_Mountain_C",
+						"dino": "/AmissaAdditions/Assets/Dinos/Amissa_Wyverns/WyvernVariants/AmissaWyvern_Character_BP_Mountain.AmissaWyvern_Character_BP_Mountain_C",
 						"chancetodrop": 0.3
 					},
 					{
-						"dino": "/AmissaAdditions/Content/Assets/Dinos/Amissa_Wyverns/WyvernVariants/AmissaWyvern_Character_BP_Poison.AmissaWyvern_Character_BP_Poison_C",
+						"dino": "/AmissaAdditions/Assets/Dinos/Amissa_Wyverns/WyvernVariants/AmissaWyvern_Character_BP_Poison.AmissaWyvern_Character_BP_Poison_C",
 						"chancetodrop": 0.3
 					},
 					{
-						"dino": "/AmissaAdditions/Content/Assets/Dinos/Amissa_Wyverns/WyvernVariants/AmissaWyvern_Character_BP_ShadowWyvern.AmissaWyvern_Character_BP_ShadowWyvern_C",
+						"dino": "/AmissaAdditions/Assets/Dinos/Amissa_Wyverns/WyvernVariants/AmissaWyvern_Character_BP_ShadowWyvern.AmissaWyvern_Character_BP_ShadowWyvern_C",
 						"chancetodrop": 0.25
 					}
 				],
