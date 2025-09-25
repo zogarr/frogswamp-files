@@ -44,9 +44,13 @@
 					{
 						"dino": "/AmissaAdditions/Assets/Dinos/Parrot/AmissaParrot_Character_BP.AmissaParrot_Character_BP_C",
 						"chancetodrop": 1
+					},
+					{							
+						"dino": "/Game/ASA/Dinos/Helicoprion/Helicoprion_Character_BP.Helicoprion_Character_BP_C",
+						"chancetodrop": 1
 					}
 				],
-				"dipstogive": 10
+				"dipstogive": 11
 			},
 			{
 				"weekforoptions": [
