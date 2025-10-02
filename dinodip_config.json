@@ -6,6 +6,10 @@
 			{
 				"weekforoptions": [
 					{
+						"dino": "/Game/Packs/Steampunk/Dinos/JumpingSpider/JumpingSpider_Character_BP.JumpingSpider_Character_BP_C",
+						"chancetodrop": 1
+					},
+					{
 						"dino": "/Game/PrimalEarth/Items/Raft/Raft_BP.Raft_BP_C",
 						"chancetodrop": 1
 					},
