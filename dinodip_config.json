@@ -242,35 +242,27 @@
 					},
 					{
 						"dino": "/Game/PrimalEarth/Dinos/Diplodocus/Diplodocus_Character_BP_Aberrant.Diplodocus_Character_BP_Aberrant_C",
-						"chancetodrop": 0.85
+						"chancetodrop": 0.65
 					},
 					{
 						"dino": "/Game/PrimalEarth/Dinos/Procoptodon/Procoptodon_Character_BP.Procoptodon_Character_BP_C",
-						"chancetodrop": 0.8
-					},
-					{
-						"dino": "/Game/PrimalEarth/Dinos/Hyaenodon/Hyaenodon_Character_BP.Hyaenodon_Character_BP_C",
-						"chancetodrop": 0.9
+						"chancetodrop": 0.85
 					},
 					{
 						"dino": "/Game/Extinction/Dinos/Spindles/Spindles_Character_BP.Spindles_Character_BP_C",
-						"chancetodrop": 0.75
+						"chancetodrop": 0.65
 					},
 					{
 						"dino": "/Game/PrimalEarth/Dinos/Stego/Stego_Character_BP.Stego_Character_BP_C",
-						"chancetodrop": 0.8
+						"chancetodrop": 0.9
 					},
 					{
 						"dino": "/Game/PrimalEarth/Dinos/Stego/Stego_Character_BP_Aberrant.Stego_Character_BP_Aberrant_C",
-						"chancetodrop": 0.8
-					},
-					{
-						"dino": "/Game/PrimalEarth/Dinos/Stego/BionicStego_Character_BP.BionicStego_Character_BP_C",
-						"chancetodrop": 0.7
+						"chancetodrop": 0.65
 					},
 					{
 						"dino": "/Game/PrimalEarth/Dinos/Manta/Manta_Character_BP.Manta_Character_BP_C",
-						"chancetodrop": 0.9
+						"chancetodrop": 0.85
 					},
 					{
 						"dino": "/Game/ScorchedEarth/Dinos/Mantis/Mantis_Character_BP.Mantis_Character_BP_C",
@@ -281,20 +273,12 @@
 						"chancetodrop": 0.9
 					},
 					{
-						"dino": "/Game/PrimalEarth/Dinos/Purlovia/Purlovia_Character_BP.Purlovia_Character_BP_C",
-						"chancetodrop": 0.7
-					},
-					{
-						"dino": "/Game/PrimalEarth/Dinos/Purlovia/Purlovia_Character_BP_Aberrant.Purlovia_Character_BP_Aberrant_C",
-						"chancetodrop": 0.7
-					},
-					{
 						"dino": "/Game/PrimalEarth/Dinos/Doedicurus/Doed_Character_BP.Doed_Character_BP_C",
-						"chancetodrop": 0.7
+						"chancetodrop": 0.75
 					},
 					{
 						"dino": "/Game/PrimalEarth/Dinos/Doedicurus/Doed_Character_BP_Aberrant.Doed_Character_BP_Aberrant_C",
-						"chancetodrop": 0.7
+						"chancetodrop": 0.6
 					},
 					{
 						"dino": "/Game/PrimalEarth/Dinos/Mammoth/Mammoth_Character_BP.Mammoth_Character_BP_C",
@@ -302,23 +286,19 @@
 					},
 					{
 						"dino": "/Game/PrimalEarth/Dinos/Bigfoot/Bigfoot_Character_BP.Bigfoot_Character_BP_C",
-						"chancetodrop": 0.7
+						"chancetodrop": 0.65
 					},
 					{
 						"dino": "/Game/PrimalEarth/Dinos/Bigfoot/Bigfoot_Character_BP_Aberrant.Bigfoot_Character_BP_Aberrant_C",
-						"chancetodrop": 0.7
-					},
-					{
-						"dino": "/Game/PrimalEarth/Dinos/Troodon/Troodon_Character_BP.Troodon_Character_BP_C",
-						"chancetodrop": 0.9
+						"chancetodrop": 0.5
 					},
 					{
 						"dino": "/Game/Aberration/Dinos/MoleRat/MoleRat_Character_BP.MoleRat_Character_BP_C",
-						"chancetodrop": 0.8
+						"chancetodrop": 0.6
 					},
 					{
 						"dino": "/Game/Aberration/Dinos/Crab/Crab_Character_BP.Crab_Character_BP_C",
-						"chancetodrop": 0.6
+						"chancetodrop": 0.25
 					}
 				],
 				"dipstogive": 6
